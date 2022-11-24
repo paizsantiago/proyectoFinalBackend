@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "timestamp": "2022-11-24T17:05:22.329Z",
+    "products": [
+      {
+        "nombre": "Pelota",
+        "descripcion": "La mejor pelota",
+        "codigo": "AKDAS32",
+        "thumbnail": "https://ep01.epimg.net/verne/imagenes/2015/09/11/articulo/1441988783_165642_1442161238_sumario_normal.jpg",
+        "precio": 20,
+        "stock": 5,
+        "timestamp": "2022-11-24T17:03:02.564Z",
+        "id": 1
+      },
+      {
+        "nombre": "Rueda",
+        "descripcion": "La mejor pelota",
+        "codigo": "AKDAS32",
+        "thumbnail": "https://ep01.epimg.net/verne/imagenes/2015/09/11/articulo/1441988783_165642_1442161238_sumario_normal.jpg",
+        "precio": 20,
+        "stock": 5,
+        "timestamp": "2022-11-24T17:03:02.564Z",
+        "id": 2
+      }
+    ]
+  }
+]
