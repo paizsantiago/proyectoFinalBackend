@@ -10,7 +10,7 @@ Utilizando Postman para comprobar el funcionamiento del mismo.
 ## Para los productos: 
 
 
-Para los productos: (GET para ver los productos almacenados en fs).
+http://localhost:8080/api/productos (GET para ver los productos almacenados en fs).
 
 
 http://localhost:8080/api/productos/:id (GET para ver un producto mediante el id).
