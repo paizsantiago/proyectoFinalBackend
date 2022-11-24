@@ -25,7 +25,7 @@ http://localhost:8080/api/productos (POST para agregar un producto).
 http://localhost:8080/api/productos/:id (PUT para modificar un producto ya existente mediante el id).
 
 
-##Para el carrito: 
+## Para el carrito: 
 
 
 http://localhost:8080/api/carrito (POST para crear un carrito con su respectivo id).
@@ -43,7 +43,7 @@ http://localhost:8080/api/productos/:id/:id_prod (POST para agregar un producto 
 http://localhost:8080/api/productos/:id/:id_prod (DELETE para eliminar un producto en especifico de un carrito en especifico).
 
 
-##Postman
+## Postman
 
 
 Para probar dichos funcionamientos, consta de pegar el endpoint y especificar la funcion a realizar.
