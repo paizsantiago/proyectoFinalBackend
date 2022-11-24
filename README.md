@@ -62,6 +62,7 @@ SI la funcion a realizar es POST, o PUT de un producto por ejemplo, elegir la op
 
 
 
+*En el caso del post de un producto por id en la ruta de carrito, basta simplemente con poner el id en el endpoint para agregar o no el producto.
 
 
 
